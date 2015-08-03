@@ -1,0 +1,2 @@
+# mymusictaste_mkII_i18n
+mymusictaste_mkII_i18n for transifex
